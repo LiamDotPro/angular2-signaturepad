@@ -1,8 +1,10 @@
-# angular2-signaturepad
+# angular2-signaturepad-backwards-compatbile
+This is a modified package that allows for backwards compatibility with angular 1 based signaturepad using `fromDataOld(pointData)`.
+
 Angular 2 component for [szimek/signature_pad](https://www.npmjs.com/package/signature_pad).
 
 ## Install
-`npm install angular2-signaturepad --save`
+`npm install angular2-signaturepad-backwards-compatbile --save`
 
 ## Reference Implementation
 
